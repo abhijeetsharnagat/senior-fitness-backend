@@ -1,6 +1,8 @@
 
 # Senior Healthcare App
 
+Frontend code - https://github.com/abhijeetsharnagat/fitness-front
+
 Welcome to the Senior Healthcare App – a comprehensive solution designed to enhance the well-being of our senior community. Utilizing the power of the MERN (MongoDB, Express.js, React.js, Node.js) stack, our platform empowers users and caregivers with thoughtful features tailored for senior health management.
 
 # Screenshots
