@@ -50,7 +50,7 @@ app.use('/challenges', challengeRoutes);
 app.use('/auth', authRoutes);
 app.use('/medicines', medicineRoutes);
 
-// Start the server
+// Start the backend server
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
